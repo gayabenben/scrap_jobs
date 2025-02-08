@@ -1,0 +1,236 @@
+
+ 
+ 
+ 
+	Portail Emploi CNRS - Offre d'emploi - Ingénieur en Interaction haptique dans les applications de la manipulation robotique H/F
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    En poursuivant votre navigation sur ce site, vous acceptez le dépôt de cookies dans votre navigateur. ( En savoir plus ) 
+ 
+ 
+ 
+ 
+ CNRS - Portail emploi recrutement 
+ 
+ 
+ Centre National de la Recherche Scientifique 
+ 
+ 
+ 
+ 
+ 
+ CNRS 
+ 
+ 
+ Les annuaires de l'organisme 
+ 
+ 
+ Mots-clefs CNRS 
+ 
+ 
+ Travailler au CNRS 
+ 
+ 
+ CNRS en région 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail Emploi 
+ 
+ Accueil 
+ 
+ 
+ Présentation 
+ 
+ 
+ Toutes les offres 
+ 
+ Recherche simple     
+ 
+ Recherche avancée 
+ 
+ 
+ Bassins d'emploi 
+ 
+ Aide 
+ 
+ Aide à l'utilisation du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ 
+ 
+ Nous suivre 
+ 
+ 
+ Flux RSS des offres 
+ 
+ 
+ 
+ 
+ Notre page Facebook 
+ 
+ 
+ 
+ 
+ Notre compte Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail  >  Offres  >  Offre UMR6074-CLAPAC-009 - Ingénieur en Interaction haptique dans les applications de la manipulation robotique H/F 
+ 
+ 
+ Ingénieur en Interaction haptique dans les applications de la manipulation robotique H/F 
+ 
+ 
+ 
+ Cette offre est disponible dans les langues suivantes :  -   Français - -   Anglais 
+ 
+ 
+        Date Limite Candidature :  mercredi 19 février 2025 23:59:00 heure de Paris 
+ 
+            Assurez-vous que votre  profil candidat  soit correctement renseigné avant de postuler
+         
+ 
+ 
+ Informations générales Intitulé de l'offre :  Ingénieur en Interaction haptique dans les applications de la manipulation robotique H/F 
+ Référence : UMR6074-CLAPAC-009 
+Nombre de Postes : 1 
+Lieu de travail :  RENNES 
+Date de publication :  mercredi 29 janvier 2025 
+Type de contrat :  IT en contrat CDD 
+Durée du contrat : 13 mois 
+Date d'embauche prévue : 1 avril 2025 Quotité de travail :  Complet 
+Rémunération :  Entre 2847 à 3206 euros brut mensuel 
+Niveau d'études souhaité :  Doctorat 
+Expérience souhaitée :  1 à 4 années 
+BAP : E - Informatique, Statistiques et Calcul scientifique 
+Emploi type :  Chef-fe de projet ou expert-e en ingénierie des systèmes d’information 
+ 
+ Missions 
+ L’ingénieur contribuera à l'avancement de l'autonomie partagée haptique pour les systèmes de télémanipulation à haute dextérité. Le rôle consiste à allier l'adaptabilité humaine à la précision robotique, en favorisant une interaction fluide entre les opérateurs et les systèmes robotiques dans des environnements complexes. Les responsabilités incluent le développement de cadres pour le contrôle cognitif partagé, la conception de systèmes de retour haptique et la garantie de la stabilité dans des contextes dynamiques. Les applications couvrent l'assemblage de précision, la robotique médicale et l'automatisation industrielle. 
+ 
+ Activités 
+ Le projet se déroulera en développant quatre aspects principaux :  Concevoir et implémenter des algorithmes pour la navigation autonome et la manipulation précise. Développer des systèmes de retour haptique robustes pour améliorer le contrôle et l’immersion des opérateurs. Assurer la stabilité et la sécurité des systèmes à l’aide de techniques avancées basées sur la passivité. Mener des études d'interaction homme-robot pour affiner l’ergonomie et la confiance dans les systèmes. Collaborer avec des équipes multidisciplinaires pour intégrer les technologies IA, robotique et capteurs. 
+ 
+ Compétences 
+ Solide expertise en robotique, programmation et systèmes de contrôle. Maîtrise des systèmes haptiques, de rétroaction sensorielle ou de robotique pilotée par IA. Expérience dans les configurations expérimentales et l’évaluation des interactions utilisateurs. Capacité à résoudre des problèmes de manière autonome et proactive. Maîtrise de l'anglais ; le français est un atout. 
+ 
+ Contexte de travail 
+ Cette position se situe dans le domaine de la réalité virtuelle, de la réalité augmentée et des interfaces haptiques (c'est-à-dire des technologies visant à fournir des sensations de toucher et de force). Notre objectif est d'étudier une nouvelle approche pour introduire les sensations haptiques dans les environnements virtuels, basée sur une nouvelle génération de technologies haptiques impliquant une stimulation ultrasonique et/ou vibratoire pour l'utilisateur.  Le rôle de l'ingénieur consistera à soutenir l'équipe de recherche dans la conception d'algorithmes de rendu et de techniques d'interaction novateurs pour mieux exploiter ces nouvelles technologies haptiques, ainsi que dans la conception d'environnements de RV et de RA convaincants.  ** Version traduite de l'anglais. Veuillez consulter la version anglaise. ** A propos du laboratoire ============= www.irisa.fr L'IRISA est aujourd'hui l'un des plus grands laboratoires de recherche français (plus de 850 personnes) dans le domaine de l'informatique et des technologies de l'information. Structuré en sept départements scientifiques, l'IRISA est un laboratoire d'excellence dont les priorités scientifiques sont la bioinformatique, la sécurité des systèmes, les nouvelles architectures logicielles, la réalité virtuelle, l'analyse des big data et l'intelligence artificielle. Tourné vers l'avenir de l'informatique et nécessairement tourné vers l'international, l'IRISA est au cœur même de la transition numérique de la société et de l'innovation au service de la cybersécurité, de la santé, de l'environnement et de l'écologie, des transports, de la robotique, de l'énergie, de la culture et de l'intelligence artificielle. Présentation du CNRS en tant qu'employeur : https://www.cnrs.fr/fr/le-cnrs Présentation de l'IRISA comme laboratoire d'affectation : https://www.irisa.fr/umr-6074 Le poste se situe dans un secteur relevant de la protection du potentiel scientifique et technique (PPST), et nécessite donc, conformément à la réglementation, que votre arrivée soit autorisée par l'autorité compétente du MESR. 
+ 
+ 
+ 
+ 
+ 
+         
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ Logo Republique Française et CNRS 
+ 
+ 
+ 
+ 
+ 
+ Aide 
+ 
+ 
+ Plan du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ Mentions Légales 
+ 
+ 
+ CGU 
+ 
+ 
+ Donnees Personnelles 
+ 
+ 
+ Cookies 
+ 
+ 
+ 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ Logo HRS4R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

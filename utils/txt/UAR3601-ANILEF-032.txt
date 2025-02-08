@@ -1,0 +1,236 @@
+
+ 
+ 
+ 
+	Portail Emploi CNRS - Offre d'emploi - Ingénieur Développeur / Devops - IFB RENABI - RENNES OU ROSCOFF (H/F)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    En poursuivant votre navigation sur ce site, vous acceptez le dépôt de cookies dans votre navigateur. ( En savoir plus ) 
+ 
+ 
+ 
+ 
+ CNRS - Portail emploi recrutement 
+ 
+ 
+ Centre National de la Recherche Scientifique 
+ 
+ 
+ 
+ 
+ 
+ CNRS 
+ 
+ 
+ Les annuaires de l'organisme 
+ 
+ 
+ Mots-clefs CNRS 
+ 
+ 
+ Travailler au CNRS 
+ 
+ 
+ CNRS en région 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail Emploi 
+ 
+ Accueil 
+ 
+ 
+ Présentation 
+ 
+ 
+ Toutes les offres 
+ 
+ Recherche simple     
+ 
+ Recherche avancée 
+ 
+ 
+ Bassins d'emploi 
+ 
+ Aide 
+ 
+ Aide à l'utilisation du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ 
+ 
+ Nous suivre 
+ 
+ 
+ Flux RSS des offres 
+ 
+ 
+ 
+ 
+ Notre page Facebook 
+ 
+ 
+ 
+ 
+ Notre compte Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail  >  Offres  >  Offre UAR3601-ANILEF-032 - Ingénieur Développeur / Devops - IFB RENABI - RENNES OU ROSCOFF (H/F) 
+ 
+ 
+ Ingénieur Développeur / Devops - IFB RENABI - RENNES OU ROSCOFF (H/F) 
+ 
+ 
+ 
+ 
+ 
+ 
+        Date Limite Candidature :  lundi 17 février 2025 23:59:00 heure de Paris 
+ 
+            Assurez-vous que votre  profil candidat  soit correctement renseigné avant de postuler
+         
+ 
+ 
+ Informations générales Intitulé de l'offre :  Ingénieur Développeur / Devops - IFB RENABI - RENNES OU ROSCOFF (H/F) 
+ Référence : UAR3601-ANILEF-032 
+Nombre de Postes : 1 
+Lieu de travail :  RENNES 
+Date de publication :  lundi 27 janvier 2025 
+Type de contrat :  IT en contrat CDD 
+Durée du contrat : 12 mois 
+Date d'embauche prévue : 1 avril 2025 Quotité de travail :  Complet 
+Rémunération :  entre 2932,84 et 3557,58 euros bruts/mois selon expérience 
+Niveau d'études souhaité :  BAC+5 
+Expérience souhaitée :  Indifférent 
+BAP : E - Informatique, Statistiques et Calcul scientifique 
+Emploi type :  Chef-fe de projet ou expert-e en Ingéniérie logicielle 
+ 
+ Missions 
+ L’ingénieur(e) aura pour principale mission de contribuer au développement, à l’évolution, au déploiement et au maintien en condition opérationnelle de cette infrastructure. Il/Elle sera aussi en contact avec les utilisateurs finaux pour leur apporter solutions et assistances (helpdesk). Enfin, il/elle prendra part aux potentielles initiatives de collaboration à l’échelle européenne autour du Working Group Galaxy ELIXIR (ex: adhérer au réseau Pulsar, participer à usegalaxy.*, ...). 
+ 
+ Activités 
+ Activités principales - Piloter ou participer à l’évolution de l’instance : mise à jour, évaluation et implémentation des nouvelles fonctionnalités … - Administrer de l’instance usegalaxy.fr : installation d’outils, banques, gestion des quotas, débogage ... - Assurer une veille technologique. - Participer aux initiatives européennes et internationales autour du projet Galaxy - Participer ou prendre en charge aux portages d’outils (wrapping) sous Galaxy - Participer ou prendre à la création de packages Conda - Assurer l’assistance et le support aux utilisateurs Activités associées : - Présenter ses activités : webinar, réunions de travail en visio et en présentiel... - Participer à l’organisation et à la réalisation de formations à l’utilisation de Galaxy 
+ 
+ Compétences 
+ Savoir-faire - Maîtrise d’au moins un langage de scripting (Python…). - Maîtrise des outils et technologies WEB (NGINX, Apache, etc.). - Maîtrise d’un outil de déploiement automatique (Ansible, Salt, ...). - Maîtrise de l'outil de versionning git. - Bonne connaissance des solutions de conteneurs et de gestion d’infrastructures pour applications conteneurisées. - Bonne connaissance des environnements Linux (Ubuntu…). - Notions générales en architecture système et réseau . - Bonne compréhension de l'anglais oral et écrit (niveau européen B2-C1). - Savoir rédiger des documentations, notamment sur des systèmes de type WiKi. Savoir être - Capacité à travailler en mode projet et en équipe. - Capacité à travailler à distance. - Réactivité, autonomie, initiative, rigueur. - Gérer les situations d'urgence et hiérarchiser les priorités. - Esprit d’équipe et sens de la collaboration. - Capacité d’écoute et sens du contact. 
+ 
+ Contexte de travail 
+ L’Institut Français de Bioinformatique (IFB; france-bioinformatique.fr) est une infrastructure nationale qui regroupe 28 plateformes régionales de bioinformatique et une unité coordinatrice, IFB-Core (UAR3601). Ces plateformes offrent un ensemble de services à destination des chercheurs en biologie et Santé : expertise en analyse de données scientifique, formation et infrastructures de calcul (clusters et clouds). Cette équipe en parallèle du montage, de la gestion de l’IFB Core Cluster et de l’animation du réseau IFB NNCR Cluster (National Network of Computational Resources), opère l’instance Galaxy nationale usegalaxy.fr. Galaxy est une plateforme ouverte et collaborative qui rend l’analyse bioinformatique accessible, reproductible et transparente. Elle permet d’accéder à des outils de bioinformatique, initialement prévus pour la ligne de commande ou le scripting, via une interface web sans prérequis en langage de programmation ou Linux. usegalaxy.fr se veut une ressource centrale, elle a vocation à rassembler différentes instances thématiques ou locales. Ainsi, cette initiative permet de fédérer les efforts sur la maintenance et le support. usegalaxy.fr est géré de manière collaborative et ouverte via un ensemble de dépôts GitLab et l’usage de robots d’Intégration Continue (CI): gitlab-runner, Ansible. Afin de renforcer l’équipe usegalaxy.fr, l’IFB recrute un(e) ingénieur(e) bioinformaticien(ne) ou DevOps. L’ingénieur(e) sera recruté(e) par l’UAR3601 (CNRS) de l’Institut Français de Bioinformatique (IFB). Pour la réalisation de ses missions, il/elle sera accueilli(e) au sein d’une des plateformes de l’IFB impliquée directement dans la mise en œuvre de ce projet (GenOuest à Rennes ou ABiMS à Roscoff), et bénéficiera ainsi d’un encadrement technique adapté au service du collectif. 
+ 
+ 
+ 
+ 
+ 
+         
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ Logo Republique Française et CNRS 
+ 
+ 
+ 
+ 
+ 
+ Aide 
+ 
+ 
+ Plan du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ Mentions Légales 
+ 
+ 
+ CGU 
+ 
+ 
+ Donnees Personnelles 
+ 
+ 
+ Cookies 
+ 
+ 
+ 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ Logo HRS4R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,239 @@
+
+ 
+ 
+ 
+	Portail Emploi CNRS - Offre d'emploi - Ingénieur de Recherche en charge d’un projet de Développement d'un dispositif expérimental de magnétotransport hyper-fréquence (H/F) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    En poursuivant votre navigation sur ce site, vous acceptez le dépôt de cookies dans votre navigateur. ( En savoir plus ) 
+ 
+ 
+ 
+ 
+ CNRS - Portail emploi recrutement 
+ 
+ 
+ Centre National de la Recherche Scientifique 
+ 
+ 
+ 
+ 
+ 
+ CNRS 
+ 
+ 
+ Les annuaires de l'organisme 
+ 
+ 
+ Mots-clefs CNRS 
+ 
+ 
+ Travailler au CNRS 
+ 
+ 
+ CNRS en région 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail Emploi 
+ 
+ Accueil 
+ 
+ 
+ Présentation 
+ 
+ 
+ Toutes les offres 
+ 
+ Recherche simple     
+ 
+ Recherche avancée 
+ 
+ 
+ Bassins d'emploi 
+ 
+ Aide 
+ 
+ Aide à l'utilisation du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ 
+ 
+ Nous suivre 
+ 
+ 
+ Flux RSS des offres 
+ 
+ 
+ 
+ 
+ Notre page Facebook 
+ 
+ 
+ 
+ 
+ Notre compte Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail  >  Offres  >  Offre UMR7198-MELDOG-014 - Ingénieur de Recherche en charge d’un projet de Développement d'un dispositif expérimental de magnétotransport hyper-fréquence (H/F)  
+ 
+ 
+ Ingénieur de Recherche en charge d’un projet de Développement d'un dispositif expérimental de magnétotransport hyper-fréquence (H/F)  
+ 
+ 
+ 
+ Cette offre est disponible dans les langues suivantes :  -   Français - -   Anglais 
+ 
+ 
+        Date Limite Candidature :  jeudi 27 février 2025 23:59:00 heure de Paris 
+ 
+            Assurez-vous que votre  profil candidat  soit correctement renseigné avant de postuler
+         
+ 
+ 
+ Informations générales Intitulé de l'offre :  Ingénieur de Recherche en charge d’un projet de Développement d'un dispositif expérimental de magnétotransport hyper-fréquence (H/F)  
+ Référence : UMR7198-MELDOG-014 
+Nombre de Postes : 1 
+Lieu de travail :  NANCY 
+Date de publication :  jeudi 6 février 2025 
+Type de contrat :  IT en contrat CDD 
+Durée du contrat : 12 mois 
+Date d'embauche prévue : 1 avril 2025 Quotité de travail :  Complet 
+Rémunération :  2.875 € bruts mensuels, ajustable selon expérience 
+Niveau d'études souhaité :  Doctorat 
+Expérience souhaitée :  Indifférent 
+BAP : B - Sciences chimiques et Sciences des matériaux 
+Emploi type :  Ingénieur-e de recherche en science  des matériaux / caractérisation 
+ 
+ Missions 
+ La mission proposée s’inscrit dans le projet européen MAGNETALLIEN (ERC CoG 101086807) dont l’objectif est de développer de nouveaux dispositifs de l’électronique de spin fonctionnant dans la gamme des sub-Térahertz (https://cordis.europa.eu/project/id/101086807). Ces nouveaux dispositifs exploiteront la possibilité, actuellement proposée théoriquement, de générer des courants de spin AC avec de hautes harmoniques.  
+ 
+ Activités 
+ Le but de la mission proposée est de développer l’ensemble du circuit hyper-fréquence (fréquences radio/micro-ondes) dans un dispositif expérimental cryogénique à champ vectoriel récemment acquis, afin de mesurer la génération d'harmoniques élevées de dispositifs spin-orbitroniques excités par un champ magnétique RF. Plus précisément, l'insert du cryostat est actuellement seulement  équipé de quatre câbles RF cryogéniques de 40 GHz. Le candidat sélectionné devra, dans un premier temps, développer le support qui s’inséra à l'extrémité de l'insert de mesure dans lequel l'échantillon sera placé et assurer sa connexion aux câbles RF. Ensuite, le candidat sélectionné devra concevoir le design du circuit RF qui sera lithographié sur l’échantillon pour permettre l'excitation et la détection au niveau du dispositif spin-orbitronique. Cette partie impliquera l'utilisation de logiciels de simulation RF tel que Comsol (bibliothèques de modélisation RF). Enfin, il/elle devra  développer la chaîne d'acquisition RF comprenant le filtrage et l'amplification du signal pour permettre la mesure avec un oscilloscope rapide ou un analyseur de spectre jusqu'à 40 GHz (déjà dans le laboratoire).  Le candidat développera ses compétences en électronique hyper-fréquence et en instrumentation par la réalisation d’un dispositif expérimental original et unique dans un milieu contraint (très basses températures, espace réduit…). Elle/il acquièra une première expérience dans le domaine de la recherche nécessitant de faire preuve d’initiative et de créativité.  
+ 
+ Compétences 
+ Le candidat doit avoir une expérience en électronique hyper-fréquence et en instrumentation. Il doit avoir une bonne connaissance des technologies RF, telles que les amplificateurs, les lignes à retard, les mixeurs, etc. Le candidat doit également avoir une certaine expérience des simulations en radiofréquences. Une bonne connaissance de LabVIEW ou de Python est un atout.  En outre, étant donné que le candidat sera amené à interagir avec différents départements et des sociétés externes, la maîtrise de l'anglais et du français est nécessaire.  
+ 
+ Contexte de travail 
+ Le candidat sélectionné travaillera au sein du groupe de recherche SPIN de l'Institut Jean Lamour, sous la supervision du Dr J. Carlos Rojas-Sánchez, et du Dr Sébastien Petit-Watelot. Elle/il devra travailler en collaboration avec différents services du laboratoire tels que l'atelier mécanique, le département électronique et le service des achats. L'achat des différents équipements nécessaires à la réalisation de la mission sera couvert par le financement du projet MAGNETALLIEN. Les sujets de recherche du groupe SPIN vont du développement de matériaux innovants pour l'électronique de spin au développement de capteurs magnétiques et à l'étude fondamentale des phénomènes physiques liés au magnétisme. Du fait de sa situation géographique, à 1h30 de Paris et de Strasbourg par le train et à moins de 2h de Kaiserslautern (Allemagne) par voiture, le groupe SPIN est en étroite collaboration avec les laboratoires Albert Fert (Paris Saclay), C2N (Paris Saclay), IPCMS (Strasbourg) et l’Institut Technologique de Kaiserslautern.   L'Institut Jean Lamour (IJL) est une unité mixte de recherche du CNRS et de l'Université de Lorraine. Il est rattaché à l'Institut de Chimie du CNRS. Spécialisé en science et ingénierie des matériaux et des procédés, il couvre les champs suivants : matériaux, métallurgie, plasmas, surfaces, nanomatériaux, électronique. L'IJL compte 263 permanents (30 chercheurs, 134 enseignants-chercheurs, 99 IT-BIATSS) et 394 non-permanents (182 doctorants, 62 post-doctorants / chercheurs contractuels et plus de 150 stagiaires), de 45 nationalités différentes. Il collabore avec plus de 150 partenaires industriels et ses collaborations académiques se déploient dans une trentaine de pays. Son parc instrumental exceptionnel est réparti sur 4 sites dont le principal est situé sur le campus ARTEM à Nancy.  Le contrat est renouvelable pour 12 mois supplémentaires. Le poste se situe dans un secteur relevant de la protection du potentiel scientifique et technique (PPST), et nécessite donc, conformément à la réglementation, que votre arrivée soit autorisée par l'autorité compétente du MESR. 
+ 
+ Contraintes et risques 
+ Le poste pour lequel vous postulez est situé dans un secteur relatif à la protection du potentiel scientifique et technique. Il nécessite donc, conformément à la réglementation, que votre arrivée soit autorisée par l'autorité compétente du ministère français de l'enseignement supérieur, de la recherche et de l'innovation. 
+ 
+ 
+ 
+ 
+ 
+         
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ Logo Republique Française et CNRS 
+ 
+ 
+ 
+ 
+ 
+ Aide 
+ 
+ 
+ Plan du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ Mentions Légales 
+ 
+ 
+ CGU 
+ 
+ 
+ Donnees Personnelles 
+ 
+ 
+ Cookies 
+ 
+ 
+ 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ Logo HRS4R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

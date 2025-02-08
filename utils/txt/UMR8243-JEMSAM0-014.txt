@@ -1,0 +1,239 @@
+
+ 
+ 
+ 
+	Portail Emploi CNRS - Offre d'emploi - [H/F] Ingénieur- ASESYC - Cryptographie symétrique vérifiable, sûre et efficace
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    En poursuivant votre navigation sur ce site, vous acceptez le dépôt de cookies dans votre navigateur. ( En savoir plus ) 
+ 
+ 
+ 
+ 
+ CNRS - Portail emploi recrutement 
+ 
+ 
+ Centre National de la Recherche Scientifique 
+ 
+ 
+ 
+ 
+ 
+ CNRS 
+ 
+ 
+ Les annuaires de l'organisme 
+ 
+ 
+ Mots-clefs CNRS 
+ 
+ 
+ Travailler au CNRS 
+ 
+ 
+ CNRS en région 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail Emploi 
+ 
+ Accueil 
+ 
+ 
+ Présentation 
+ 
+ 
+ Toutes les offres 
+ 
+ Recherche simple     
+ 
+ Recherche avancée 
+ 
+ 
+ Bassins d'emploi 
+ 
+ Aide 
+ 
+ Aide à l'utilisation du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ 
+ 
+ Nous suivre 
+ 
+ 
+ Flux RSS des offres 
+ 
+ 
+ 
+ 
+ Notre page Facebook 
+ 
+ 
+ 
+ 
+ Notre compte Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail  >  Offres  >  Offre UMR8243-JEMSAM0-014 - [H/F] Ingénieur- ASESYC - Cryptographie symétrique vérifiable, sûre et efficace 
+ 
+ 
+ [H/F] Ingénieur- ASESYC - Cryptographie symétrique vérifiable, sûre et efficace 
+ 
+ 
+ 
+ Cette offre est disponible dans les langues suivantes :  -   Français - -   Anglais 
+ 
+ 
+        Date Limite Candidature :  jeudi 27 février 2025 23:59:00 heure de Paris 
+ 
+            Assurez-vous que votre  profil candidat  soit correctement renseigné avant de postuler
+         
+ 
+ 
+ Informations générales Intitulé de l'offre :  [H/F] Ingénieur- ASESYC - Cryptographie symétrique vérifiable, sûre et efficace 
+ Référence : UMR8243-JEMSAM0-014 
+Nombre de Postes : 1 
+Lieu de travail :  PARIS 13 
+Date de publication :  jeudi 6 février 2025 
+Type de contrat :  IT en contrat CDD 
+Durée du contrat : 27 mois 
+Date d'embauche prévue : 1 mai 2025 Quotité de travail :  Complet 
+Rémunération :  à partir de 2349 brut selon experience 
+Niveau d'études souhaité :  BAC+3/4 
+Expérience souhaitée :  Indifférent 
+BAP : E - Informatique, Statistiques et Calcul scientifique 
+Emploi type :  Ingénieur-e en ingénierie logicielle 
+ 
+ Missions 
+ Objectif Nous souhaitons étendre le compilateur Usuba, développé par le PI et un précédent doctorant, avec des passes d'optimisation spécifiquement spécialement conçues pour les plateformes embarquées (ARM Cortex, RISC). Notre objectif est de performances comparables à celles des implémentations manuelles sur ces plates-formes. Objectif 2 : nous souhaitons intégrer le langage de programmation Usuba plus étroitement dans l'écosystème logiciel existant afin de le rendre pleinement opérationnel. dans l'écosystème logiciel existant afin de le rendre complètement transparent pour les développeurs. Peut-être de manière contre-intuitive, notre but est de qu'Usuba disparaisse de la vue des développeurs, les dispensant ainsi d'avoir à apprendre un autre outil. 
+ 
+ Activités 
+ Développement et test de passes d'optimisation pour Usuba. Validation des optimisations sur des plateformes embarquées. Intégration fluide d’Usuba dans l’écosystème logiciel existant. Création d'outils et interfaces pour rendre l’utilisation d’Usuba invisible pour les développeurs. 
+ 
+ Compétences 
+ Optimisation de compilateurs pour des architectures embarquées (ARM, RISC). Connaissances des systèmes embarqués et de leur programmation. Analyse de performance, benchmarking et optimisation. Intégration d'outils dans des écosystèmes logiciels existants.  Développement d’interfaces transparentes pour les développeurs. 
+ 
+ Contexte de travail 
+ Travail au sein de l'IRIF en collaboration avec Pierre Evariste Dagand au sein de l'équipe PPS  
+ 
+ Contraintes et risques 
+ Pas de risque et contrainte  
+ 
+ 
+ 
+ 
+ 
+         
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ Logo Republique Française et CNRS 
+ 
+ 
+ 
+ 
+ 
+ Aide 
+ 
+ 
+ Plan du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ Mentions Légales 
+ 
+ 
+ CGU 
+ 
+ 
+ Donnees Personnelles 
+ 
+ 
+ Cookies 
+ 
+ 
+ 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ Logo HRS4R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

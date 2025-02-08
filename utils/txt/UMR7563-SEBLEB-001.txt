@@ -1,0 +1,236 @@
+
+ 
+ 
+ 
+	Portail Emploi CNRS - Offre d'emploi - Ingénieur de recherche (H/F) en simulation numérique des propriétés des matériaux de type céramiques.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    En poursuivant votre navigation sur ce site, vous acceptez le dépôt de cookies dans votre navigateur. ( En savoir plus ) 
+ 
+ 
+ 
+ 
+ CNRS - Portail emploi recrutement 
+ 
+ 
+ Centre National de la Recherche Scientifique 
+ 
+ 
+ 
+ 
+ 
+ CNRS 
+ 
+ 
+ Les annuaires de l'organisme 
+ 
+ 
+ Mots-clefs CNRS 
+ 
+ 
+ Travailler au CNRS 
+ 
+ 
+ CNRS en région 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail Emploi 
+ 
+ Accueil 
+ 
+ 
+ Présentation 
+ 
+ 
+ Toutes les offres 
+ 
+ Recherche simple     
+ 
+ Recherche avancée 
+ 
+ 
+ Bassins d'emploi 
+ 
+ Aide 
+ 
+ Aide à l'utilisation du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ 
+ 
+ Nous suivre 
+ 
+ 
+ Flux RSS des offres 
+ 
+ 
+ 
+ 
+ Notre page Facebook 
+ 
+ 
+ 
+ 
+ Notre compte Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail  >  Offres  >  Offre UMR7563-SEBLEB-001 - Ingénieur de recherche (H/F) en simulation numérique des propriétés des matériaux de type céramiques. 
+ 
+ 
+ Ingénieur de recherche (H/F) en simulation numérique des propriétés des matériaux de type céramiques. 
+ 
+ 
+ 
+ Cette offre est disponible dans les langues suivantes :  -   Français - -   Anglais 
+ 
+ 
+        Date Limite Candidature :  mercredi 26 février 2025 23:59:00 heure de Paris 
+ 
+            Assurez-vous que votre  profil candidat  soit correctement renseigné avant de postuler
+         
+ 
+ 
+ Informations générales Intitulé de l'offre :  Ingénieur de recherche (H/F) en simulation numérique des propriétés des matériaux de type céramiques. 
+ Référence : UMR7563-SEBLEB-001 
+Nombre de Postes : 1 
+Lieu de travail :  VANDOEUVRE LES NANCY 
+Date de publication :  mercredi 5 février 2025 
+Type de contrat :  IT en contrat CDD 
+Durée du contrat : 18 mois 
+Date d'embauche prévue : 17 mars 2025 Quotité de travail :  Complet 
+Rémunération :  2.875 euros bruts, mensuels ajustable selon expérience  
+Niveau d'études souhaité :  Doctorat 
+Expérience souhaitée :  Indifférent 
+BAP : E - Informatique, Statistiques et Calcul scientifique 
+Emploi type :  Expert-e en calcul scientifique 
+ 
+ Missions 
+ Dans le cadre du programme PEPR DIADEM (Programme Exploratoire de Recherche -Dispositifs Innovants pour l'Application Énergétique des Matériaux), nous proposons un poste d'ingénieur de recherche sur le criblage à haut débit des céramiques à haute entropie. Le travail consistera principalement à développer des workflows de calcul, à programmer des outils numériques et des scripts d'analyse de données, et à travailler à l'optimisation des matériaux en fonction de critères physico-chimiques (propriétés électroniques, catalytiques, etc.). 
+ 
+ Activités 
+ Développement de workflows automatisés pour le criblage à haut débit : Concevoir et implémenter des workflows dédiés au criblage à haut débit de vastes bases de données sur les céramiques à haute entropie. Cela comprend l'intégration de divers outils et logiciels de simulation (tels qu'AiiDA, Aflow) pour optimiser et accélérer les processus de criblage. Analyse et exploitation des résultats : Développer et programmer des scripts pour analyser les données générées par le criblage à haut débit. S'appuyer sur des bibliothèques de calcul comme Pymatgen et ASE pour extraire, traiter et interpréter les propriétés des matériaux simulés. Ce travail inclut l'optimisation des performances et l'intégration des résultats dans des modèles statistiques afin d'évaluer les performances des matériaux. Participation aux collaborations: Contribuer activement aux réunions de projet, aux discussions interdisciplinaires, et aux échanges avec les chercheurs des laboratoires partenaires (IC2MP, LEMTA, IPCMS, SIMAP). 
+ 
+ Compétences 
+ Compétences en programmation scientifique : Expérience dans le développement de workflows de criblage et de scripts d'analyse, en utilisant des langages tels que Python, Fortran ou équivalents. Expertise en calculs ab initio (DFT) : Solide maîtrise des méthodes de la théorie de la fonctionnelle de la densité (DFT) pour le calcul et la prédiction des propriétés des matériaux à haute entropie. Connaissances en criblage à haut débit : Expérience avérée dans les techniques de criblage à haut débit appliquées aux matériaux, avec une maîtrise d'outils tels qu'AiiDA, Aflow, ou équivalents. Compétences en simulation ab initio et calcul haute performance : Expertise dans l'utilisation de logiciels de simulation ab initio tels que VASP, Quantum ESPRESSO, CP2K ou similaires, sur des infrastructures de calcul haute performance. Maîtrise des outils d'analyse et d'automatisation : Expérience avec des bibliothèques comme Pymatgen, ASE ou outils similaires pour l'analyse de données, l'extraction de propriétés et l'automatisation des simulations. 
+ 
+ Contexte de travail 
+ Le poste est basé à Nancy, où l'ingénieur/ingénieure participera aux activités proposées par le PEPR DIADEM: ce poste s'inscrit dans le cadre du projet AMADEUS, qui vise à faire progresser la recherche fondamentale et appliquée sur les matériaux énergétiques innovants. Le poste se situe dans un secteur relevant de la protection du potentiel scientifique et technique (PPST), et nécessite donc, conformément à la réglementation, que votre arrivée soit autorisée par l'autorité compétente du MESR. 
+ 
+ 
+ 
+ 
+ 
+         
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ Logo Republique Française et CNRS 
+ 
+ 
+ 
+ 
+ 
+ Aide 
+ 
+ 
+ Plan du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ Mentions Légales 
+ 
+ 
+ CGU 
+ 
+ 
+ Donnees Personnelles 
+ 
+ 
+ Cookies 
+ 
+ 
+ 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ Logo HRS4R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

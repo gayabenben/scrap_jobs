@@ -1,0 +1,239 @@
+
+ 
+ 
+ 
+	Portail Emploi CNRS - Offre d'emploi - Ingénieur de recherche (H/F), développement de prototypes de réfrigération à l'état solide
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    En poursuivant votre navigation sur ce site, vous acceptez le dépôt de cookies dans votre navigateur. ( En savoir plus ) 
+ 
+ 
+ 
+ 
+ CNRS - Portail emploi recrutement 
+ 
+ 
+ Centre National de la Recherche Scientifique 
+ 
+ 
+ 
+ 
+ 
+ CNRS 
+ 
+ 
+ Les annuaires de l'organisme 
+ 
+ 
+ Mots-clefs CNRS 
+ 
+ 
+ Travailler au CNRS 
+ 
+ 
+ CNRS en région 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail Emploi 
+ 
+ Accueil 
+ 
+ 
+ Présentation 
+ 
+ 
+ Toutes les offres 
+ 
+ Recherche simple     
+ 
+ Recherche avancée 
+ 
+ 
+ Bassins d'emploi 
+ 
+ Aide 
+ 
+ Aide à l'utilisation du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ 
+ 
+ Nous suivre 
+ 
+ 
+ Flux RSS des offres 
+ 
+ 
+ 
+ 
+ Notre page Facebook 
+ 
+ 
+ 
+ 
+ Notre compte Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail  >  Offres  >  Offre IRL3757-GAESEB0-005 - Ingénieur de recherche (H/F), développement de prototypes de réfrigération à l'état solide 
+ 
+ 
+ Ingénieur de recherche (H/F), développement de prototypes de réfrigération à l'état solide 
+ 
+ 
+ 
+ Cette offre est disponible dans les langues suivantes :  -   Français - -   Anglais 
+ 
+ 
+        Date Limite Candidature :  vendredi 28 février 2025 23:59:00 heure de Paris 
+ 
+            Assurez-vous que votre  profil candidat  soit correctement renseigné avant de postuler
+         
+ 
+ 
+ Informations générales Intitulé de l'offre :  Ingénieur de recherche (H/F), développement de prototypes de réfrigération à l'état solide 
+ Référence : IRL3757-GAESEB0-005 
+Nombre de Postes : 1 
+Lieu de travail :  
+Date de publication :  vendredi 7 février 2025 
+Type de contrat :  IT en contrat CDD 
+Durée du contrat : 18 mois 
+Date d'embauche prévue : 1 avril 2025 Quotité de travail :  Complet 
+Rémunération :  revenu mensuel brut ~3454€ selon l'expérience 
+Niveau d'études souhaité :  BAC+5 
+Expérience souhaitée :  Plus de 10 années 
+BAP : C - Sciences de l'Ingénieur et  instrumentation scientifique 
+Emploi type :  Expert-e en conception mécanique 
+ 
+ Missions 
+ La personne recrutée sera en charge de développer des prototypes dans le cadre d'un programme de pré-maturation pour le CNRS, permettant d'augmenter le Technology Readiness Level (TRL) de preuves de concept expérimentales précédemment développées. 
+ 
+ Activités 
+ Le projet de recherche dans son ensemble implique deux professeurs d'université et quelques étudiants. Il porte sur une alternative pour la réfrigération utilisant le caoutchouc naturel comme réfrigérant. Dans le cadre de travaux antérieurs au laboratoire, une preuve de concept expérimentale utilisant un assemblage de tubes en caoutchouc naturel a été développée [1] qui a donné lieu à un brevet [2]. L'objectif est d'augmenter le niveau TRL de cette invention, pour passer du premier prototype avec une puissance de réfrigération de 1W et atteindre 100W à la fin du projet, en faisant évoluer le prototype précédent. Cela comprend le développement de solutions de montage et d'assemblage à plus grande échelle, et la modification ultérieure de la configuration pour des performances plus élevées. Dans le cadre de ses missions, la personne recrutée devra : - Réaliser la conception mécanique, en utilisant des outils de CAO et de FAO, - Mettre en œuvre des solutions de fabrication via la sous-traitance, - Instrumenter des prototypes et mettre en place des chaînes d'acquisition, - Réaliser des fonctions électroniques et électromécaniques, - Tester les prototypes. [1] G. Sebald, G. Lombardi, G. Coativy, J. Jay, L. Lebrun, A. Komiya, « Refroidisseur élastocalorique régénératif à base de polymères hautes performances », 2023, Applied Thermal Engineering, 223, 120016. (http://dx.doi.org/10.1016/j.applthermaleng.2023.120016) [2] https://patentimages.storage.googleapis.com/87/c9/d2/1adf9dea28a38e/EP4242554A1.pdf 
+ 
+ Compétences 
+ Une solide expérience en conception mécanique et prototypage est requise : - Logiciels de CAO et FAO, connaître et mettre en œuvre des solutions de fabrication (usinage, impression 3D, découpe laser, etc.) - Instrumentation scientifique - Mécatronique - Capacité de réalisation pratique (assemblage, fabrication, production manuelle fine) Dans le cadre de sa mission, la personne recrutée sera amenée à interagir fréquemment avec le personnel de l'université japonaise et les fournisseurs : - Parfaitement bilingue japonais et anglais - Une bonne connaissance de l'environnement industriel au Japon est requise (des expériences antérieures dans l'industrie japonaise sont préférées). - Travail en équipe 
+ 
+ Contexte de travail 
+ Le travail est réalisé à l'Université de Tohoku, qui héberge le laboratoire ELyTMaX qui mène ce projet. Le lieu de travail est à l'Université de Tohoku, à Sendai au Japon. Il s'inscrit dans une collaboration plus large entre des équipes en France et au Japon. L'ingénieur de recherche recruté sera affilié à l'Institut des Sciences des Fluides de l'Université de Tohoku, sous la direction des Professeurs Atsuki Komiya et Gaël Sebald. 
+ 
+ Contraintes et risques 
+ N/A 
+ 
+ 
+ 
+ 
+ 
+         
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ Logo Republique Française et CNRS 
+ 
+ 
+ 
+ 
+ 
+ Aide 
+ 
+ 
+ Plan du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ Mentions Légales 
+ 
+ 
+ CGU 
+ 
+ 
+ Donnees Personnelles 
+ 
+ 
+ Cookies 
+ 
+ 
+ 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ Logo HRS4R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

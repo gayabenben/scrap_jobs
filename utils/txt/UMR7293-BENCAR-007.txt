@@ -1,0 +1,239 @@
+
+ 
+ 
+ 
+	Portail Emploi CNRS - Offre d'emploi - Ingénieur H/F en génie logiciel / calcul scientifique pour centre de données
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    En poursuivant votre navigation sur ce site, vous acceptez le dépôt de cookies dans votre navigateur. ( En savoir plus ) 
+ 
+ 
+ 
+ 
+ CNRS - Portail emploi recrutement 
+ 
+ 
+ Centre National de la Recherche Scientifique 
+ 
+ 
+ 
+ 
+ 
+ CNRS 
+ 
+ 
+ Les annuaires de l'organisme 
+ 
+ 
+ Mots-clefs CNRS 
+ 
+ 
+ Travailler au CNRS 
+ 
+ 
+ CNRS en région 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail Emploi 
+ 
+ Accueil 
+ 
+ 
+ Présentation 
+ 
+ 
+ Toutes les offres 
+ 
+ Recherche simple     
+ 
+ Recherche avancée 
+ 
+ 
+ Bassins d'emploi 
+ 
+ Aide 
+ 
+ Aide à l'utilisation du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ 
+ 
+ Nous suivre 
+ 
+ 
+ Flux RSS des offres 
+ 
+ 
+ 
+ 
+ Notre page Facebook 
+ 
+ 
+ 
+ 
+ Notre compte Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail  >  Offres  >  Offre UMR7293-BENCAR-007 - Ingénieur H/F en génie logiciel / calcul scientifique pour centre de données 
+ 
+ 
+ Ingénieur H/F en génie logiciel / calcul scientifique pour centre de données 
+ 
+ 
+ 
+ 
+ 
+ 
+        Date Limite Candidature :  jeudi 13 février 2025 23:59:00 heure de Paris 
+ 
+            Assurez-vous que votre  profil candidat  soit correctement renseigné avant de postuler
+         
+ 
+ 
+ Informations générales Intitulé de l'offre :  Ingénieur H/F en génie logiciel / calcul scientifique pour centre de données 
+ Référence : UMR7293-BENCAR-007 
+Nombre de Postes : 1 
+Lieu de travail :  NICE 
+Date de publication :  jeudi 23 janvier 2025 
+Type de contrat :  IT en contrat CDD 
+Durée du contrat : 12 mois 
+Date d'embauche prévue : 1 avril 2025 Quotité de travail :  Complet 
+Rémunération :  entre 2491.65 et 3217.82 euros bruts mensuels environ selon expérience 
+Niveau d'études souhaité :  BAC+3/4 
+Expérience souhaitée :  Indifférent 
+BAP : E - Informatique, Statistiques et Calcul scientifique 
+Emploi type :  Ingénieur-e en calcul scientifique 
+ 
+ Missions 
+ Dans le cadre de l'étude préliminaire à la mise en place d'un centre de données et de services dédié à l'étude des petits corps du système solaire: - étudier les solutions logicielles à la mise en place de chaines de traitement, - participer à une ou plusieurs phases du cycle de vie des logiciels (analyse, développement, qualification, intégration, déploiement dans le respect du cahier des charges, des normes et des règles de sécurité), - assumer des responsabilités de gestion de projet pour la ou les phases prises en charge. 
+ 
+ Activités 
+ - Prendre en charge tout ou partie de l’activité de gestion de projet (estimer, planifier, suivre) - Contribuer à la mise en place et au respect des dispositions qualité et des normes - Rédiger et mettre à niveau les documentations techniques et fonctionnelles - Modéliser, concevoir et/ou paramétrer tout ou partie de la solution logicielle - Développer et tester les objets et composants - Assurer la maintenance évolutive et curative des développements réalisés - Élaborer la stratégie de test, concevoir, spécifier et exécuter des tests fonctionnels et/ou techniques - Créer et tester les packages applicatifs et les scripts de déploiement en production - Réceptionner, installer, documenter, mettre à disposition les packages en assurant le suivi des versions - Assurer une assistance fonctionnelle et/ou technique aux exploitants et aux utilisateurs - Concevoir les actions de formation techniques et fonctionnelles 
+ 
+ Compétences 
+ - Méthodologie de conduite de projet (Connaissance approfondie) - Génie logiciel (connaissance approfondie) - Méthodes de modélisation et de développement (connaissance approfondie) - Méthodes d’analyse et de conception - Méthodes de mise en production - Protocoles de communication - Méthodologie de tests - Langage de programmation: python et programmation graphique - Référentiel des bonnes pratiques - Sécurité des systèmes d’information et de communication - Anglais technique 
+ 
+ Contexte de travail 
+ Avec le Centre National d'Etudes Spatiales (CNES), nous mettons sur pied un centre de données et de services dédié à l'étude des petits corps du système solaire (astéroïdes, comètes). Ce centre a pour but de faciliter l'accès aux différentes bases de données et services en ligne proposés par la communauté scientifique française et internationale. Le travail sera réalisé au sein du laboratoire Lagrange, de l'Observatoire de la Côte d'Azur, à Nice. Les chercheurs de cette unité sont fortement impliqués dans le développement de services en ligne pour les petits corps du système solaire.  
+ 
+ Contraintes et risques 
+ n.a. 
+ 
+ 
+ 
+ 
+ 
+         
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ Logo Republique Française et CNRS 
+ 
+ 
+ 
+ 
+ 
+ Aide 
+ 
+ 
+ Plan du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ Mentions Légales 
+ 
+ 
+ CGU 
+ 
+ 
+ Donnees Personnelles 
+ 
+ 
+ Cookies 
+ 
+ 
+ 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ Logo HRS4R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

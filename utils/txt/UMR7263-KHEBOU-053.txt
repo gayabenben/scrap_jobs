@@ -1,0 +1,239 @@
+
+ 
+ 
+ 
+	Portail Emploi CNRS - Offre d'emploi - (H/F) Ingénieur "modéliser les dynamiques de l'écureuil roux dans les paysages fragmentés - du mouvement aux flux de gènes"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    En poursuivant votre navigation sur ce site, vous acceptez le dépôt de cookies dans votre navigateur. ( En savoir plus ) 
+ 
+ 
+ 
+ 
+ CNRS - Portail emploi recrutement 
+ 
+ 
+ Centre National de la Recherche Scientifique 
+ 
+ 
+ 
+ 
+ 
+ CNRS 
+ 
+ 
+ Les annuaires de l'organisme 
+ 
+ 
+ Mots-clefs CNRS 
+ 
+ 
+ Travailler au CNRS 
+ 
+ 
+ CNRS en région 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail Emploi 
+ 
+ Accueil 
+ 
+ 
+ Présentation 
+ 
+ 
+ Toutes les offres 
+ 
+ Recherche simple     
+ 
+ Recherche avancée 
+ 
+ 
+ Bassins d'emploi 
+ 
+ Aide 
+ 
+ Aide à l'utilisation du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ 
+ 
+ Nous suivre 
+ 
+ 
+ Flux RSS des offres 
+ 
+ 
+ 
+ 
+ Notre page Facebook 
+ 
+ 
+ 
+ 
+ Notre compte Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (H/F) Ingénieur "modéliser les dynamiques de l'écureuil roux dans les paysages fragmentés - du mouvement aux flux de gènes" 
+ 
+ 
+ 
+ 
+ 
+ 
+        Date Limite Candidature :  samedi 1 mars 2025 23:59:00 heure de Paris 
+ 
+            Assurez-vous que votre  profil candidat  soit correctement renseigné avant de postuler
+         
+ 
+ 
+ Informations générales Intitulé de l'offre :  (H/F) Ingénieur "modéliser les dynamiques de l'écureuil roux dans les paysages fragmentés - du mouvement aux flux de gènes" 
+ Référence : UMR7263-KHEBOU-053 
+Nombre de Postes : 1 
+Lieu de travail :  AIX EN PROVENCE 
+Date de publication :  samedi 8 février 2025 
+Type de contrat :  IT en contrat CDD 
+Durée du contrat : 12 mois 
+Date d'embauche prévue : 1 mai 2025 Quotité de travail :  Complet 
+Rémunération :  de 2540 à 3786 euros brut/mois 
+Niveau d'études souhaité :  BAC+5 
+Expérience souhaitée :  Indifférent 
+BAP : A - Sciences du vivant, de la terre et de l'environnement 
+Emploi type :  Ingénieur-e biologiste en analyse de données 
+ 
+ Missions 
+ L'agent modélisera la dynamique de l’écureuil roux (Sciurus vulgaris) dans des fenêtres paysagères variées grâce au logiciel RangeShifter. Il veillera à la pertinence biologique de ses sorties de modélisation, tout en développant une partie en lien avec la génétique paysagère de cette espèce afin de formuler des hypothèses sur l’effet de différents types de fragmentation sur les flux de gènes. Il rédigera ses résultats sous forme d’un article scientifique qui sera soumis dans une revue scientifique de rang A. Il pourra également présenter ses résultats dans un colloque scientifique. Enfin, il pourra contribuer à la collecte de données génétiques et spatiales sur l'écureuil roux actuellement en cours dans notre équipe et qui permettront de valider le modèle 
+ 
+ Activités 
+ Simulations numériques, analyses, valorisation 
+ 
+ Compétences 
+ Connaissances en modélisation et outils numériques ;  Bon niveau d'anglais scientifique  Travail en équipe Les plus : gout pour le travail de terrain, intérêt pour d’autres approches comme la télémétrie ou d’autres types de modélisation (ex. graphes spatiaux).  
+ 
+ Contexte de travail 
+ La perte et la fragmentation des habitats naturels sont une menace majeure pesant sur la biodiversité. D’un côté, il existe un consensus fort sur le fait que conserver la biodiversité nécessite de préserver une grande quantité d’habitats naturels tandis que d’un autre côté, la configuration (ou arrangement) spatiale des habitats pour conserver la biodiversité est l’objet d’un débat intense depuis les années 1970. Plus précisément, pour une certaine quantité d’habitats dans un paysage, est-ce qu’il existe des configurations spatiales qui sont réellement plus favorables que d’autres au maintien de la biodiversité ? Ce débat est extrêmement vivant dans la littérature actuelle, avec deux communautés scientifiques qui s’opposent : ceux qui défendent le fait que gérer la configuration spatiale des habitats est essentiel pour la conservation versus ceux qui affirment que gérer la configuration n’a que peu d’intérêt et que la conservation passe seulement par une préservation et une restauration des habitats naturels. Les deux phénomènes, perte et fragmentation des habitats, ne sont pas indépendants : quand la quantité d’habitats diminue dans un paysage, les « morceaux » d’habitats restants deviennent plus petits et plus espacés les uns des autres, ce qui rend la résolution du débat ardue. Etant donnée la pression foncière forte qui s’exerce aujourd’hui un peu partout sur le globe, les opportunités pour maintenir ou restaurer des habitats en grande quantité sont restreintes. Aménager les territoires pour optimiser la configuration spatiale des habitats, et la résistance de la matrice paysagères (i.e. la difficulté que les organismes rencontrent à traverser les espaces entre les zones d’habitat) apparait dans ce contexte comme la seule option pour conserver la biodiversité. Résoudre ce débat sur la fragmentation des habitats est donc devenu urgent. Dans ce cadre, l’équipe d’accueil de ce post-doc a monté le projet de recherche SCALED (https://www.scaled-erc.eu), utilisant une approche de génétique du paysage pour identifier les rôles respectifs de la quantité et de de la configuration de l’habitat sur les déplacements (flux de gènes) chez les écureuils roux (Sciurus vulgaris).  
+ 
+ Contraintes et risques 
+ Quelques sessions de travail de terrain, réunions ou valorisation impliquant des déplacements à la semaine 
+ 
+ 
+ 
+ 
+ 
+         
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ Logo Republique Française et CNRS 
+ 
+ 
+ 
+ 
+ 
+ Aide 
+ 
+ 
+ Plan du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ Mentions Légales 
+ 
+ 
+ CGU 
+ 
+ 
+ Donnees Personnelles 
+ 
+ 
+ Cookies 
+ 
+ 
+ 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ Logo HRS4R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

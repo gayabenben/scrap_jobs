@@ -1,0 +1,236 @@
+
+ 
+ 
+ 
+	Portail Emploi CNRS - Offre d'emploi - Ingénieur d'Etudes en Production et analyses de données en Hydrogéomorphologie (H/F)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    En poursuivant votre navigation sur ce site, vous acceptez le dépôt de cookies dans votre navigateur. ( En savoir plus ) 
+ 
+ 
+ 
+ 
+ CNRS - Portail emploi recrutement 
+ 
+ 
+ Centre National de la Recherche Scientifique 
+ 
+ 
+ 
+ 
+ 
+ CNRS 
+ 
+ 
+ Les annuaires de l'organisme 
+ 
+ 
+ Mots-clefs CNRS 
+ 
+ 
+ Travailler au CNRS 
+ 
+ 
+ CNRS en région 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail Emploi 
+ 
+ Accueil 
+ 
+ 
+ Présentation 
+ 
+ 
+ Toutes les offres 
+ 
+ Recherche simple     
+ 
+ Recherche avancée 
+ 
+ 
+ Bassins d'emploi 
+ 
+ Aide 
+ 
+ Aide à l'utilisation du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ 
+ 
+ Nous suivre 
+ 
+ 
+ Flux RSS des offres 
+ 
+ 
+ 
+ 
+ Notre page Facebook 
+ 
+ 
+ 
+ 
+ Notre compte Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail  >  Offres  >  Offre UMR8591-LAULES-001 - Ingénieur d'Etudes en Production et analyses de données en Hydrogéomorphologie (H/F) 
+ 
+ 
+ Ingénieur d'Etudes en Production et analyses de données en Hydrogéomorphologie (H/F) 
+ 
+ 
+ 
+ 
+ 
+ 
+        Date Limite Candidature :  vendredi 28 février 2025 23:59:00 heure de Paris 
+ 
+            Assurez-vous que votre  profil candidat  soit correctement renseigné avant de postuler
+         
+ 
+ 
+ Informations générales Intitulé de l'offre :  Ingénieur d'Etudes en Production et analyses de données en Hydrogéomorphologie (H/F) 
+ Référence : UMR8591-LAULES-001 
+Nombre de Postes : 1 
+Lieu de travail :  THIAIS 
+Date de publication :  vendredi 7 février 2025 
+Type de contrat :  IT en contrat CDD 
+Durée du contrat : 12 mois 
+Date d'embauche prévue : 1 avril 2025 Quotité de travail :  Complet 
+Rémunération :  2540 à 2711 € brut mensuel selon expérience 
+Niveau d'études souhaité :  BAC+3/4 
+Expérience souhaitée :  1 à 4 années 
+BAP : D - Sciences Humaines et Sociales 
+Emploi type :  Ingénieur-e d’études en sciences de l’information géographique 
+ 
+ Missions 
+ L'ingénieur aura pour fonction de produire de l'information hydrogéomorphologique sur la rivière Bièvre (78, 91, 92, 94) dans le cadre de l'ANR ALEAU. Ce projet vise à étudier la relation des individus et des groupes aux paysages sonores ordinaires associés à la présence et/ou à la réapparition de l’eau dans des milieux urbains, périurbains et ruraux d’Ile-de-France en évaluant la capacité humaine à traiter auditivement et émotionnellement l'information acoustique véhiculée par cette ressource. Pour ce faire, nous travaillerons à partir de l’analyse de sons de trois petites rivières franciliennes (la Bièvre, le Morbras et la Vieille Mer), présentant des profils hydrogéomorphologiques variés, ainsi que des degrés d’urbanisation et de restauration divers. L'hypothèse sur laquelle repose le projet d'ANR est que ces rivières participent à la construction de paysages sonores distincts en fonction de critères hydrogéomorphologiques (taille du cours d’eau, types d'écoulements, formes du fond du lit, charge sédimentaire, différents obstacles à l'écoulement etc.) et du cadre environnant évoluant temporellement (période d’étiage ou de crue, saisons, jour/nuit, etc.).  Le travail de l'Ingénieur se situera plus précisément dans le WP1 coordonné par  Laurent LESPEZ (LGP) intitulé les dimensions spatiales du son : construction d’une cartographie du potentiel sonore. Il aura pour objectif de cartographier les facteurs hydrogéomorphologiques déterminant l'émission sonore potentielle de la rivière Bièvre. 
+ 
+ Activités 
+ - Effectuer des relevés de terrain en vue d'une cartographie exhaustive des faciès d'écoulement de la Bièvre en les mettant en relation avec les dimensions hydrogéomorphologiques qui les conditionnent. - Réalisation d'un système d'information géographique recensant l'ensemble des éléments hydrogéomorphologiques et des faciès d'écoulement observés sur le terrain - Participer aux discussions sur le lien entre les observations géomorphologiques et les émissions sonores enregistrées ou ressenties enquêtés dans le autres WP du projet ALEAU. 
+ 
+ Compétences 
+ - Très bonne connaissance du fonctionnement hydrogéomorphologique des petites rivières urbaines franciliennes - Capacité à faire des relevés hydrogéomorphologiques sur le terrain en autonomie - Maitrise des SIG et des logiciels QGIS et ArcGIS - Bonne maitrise de l'oral et de l'écrit en vue de restitution des travaux de recherche au sein du projet et à l'extérieur 
+ 
+ Contexte de travail 
+ Le laboratoire de Géographie Physique est une UMR du CNRS, des universités de Paris 1, de Créteil Paris-Est et de l'INRAP. Les travaux de recherche menés au Laboratoire de Géographie Physique s’articulent entre recherche fondamentale et recherche appliquée. Ces recherches sont organisées en 5 thèmes centrés sur la reconstitution des paléoenvironnements quaternaires, l’analyse des dynamiques paysagères et de la biodiversité sous l'effet de l'anthropisation au cours de l'Holocène, la dynamique des hydrosystèmes, les effets du changement climatique global sur les milieux froids, la dynamique des risques depuis la compréhension des aléas jusqu'à la gestion de crise. La personne recrutée sera amenée à participer à l'axe consacré aux hydrosystèmes.  L'Ingénieur sera hébergé pendant la durée du Contrat au LGP, situé 2 rue Henri Dunant à Thiais (94320). Il disposera d'un poste de travail indépendant dans un bureau partagé entre plusieurs personnes. Ses déplacements sur le terrain seront pris en charge dans le cadre du projet de recherche. 
+ 
+ 
+ 
+ 
+ 
+         
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ Logo Republique Française et CNRS 
+ 
+ 
+ 
+ 
+ 
+ Aide 
+ 
+ 
+ Plan du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ Mentions Légales 
+ 
+ 
+ CGU 
+ 
+ 
+ Donnees Personnelles 
+ 
+ 
+ Cookies 
+ 
+ 
+ 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ Logo HRS4R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

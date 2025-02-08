@@ -1,0 +1,239 @@
+
+ 
+ 
+ 
+	Portail Emploi CNRS - Offre d'emploi - Administrateur Plateforme de Calcul (H/F)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    En poursuivant votre navigation sur ce site, vous acceptez le dépôt de cookies dans votre navigateur. ( En savoir plus ) 
+ 
+ 
+ 
+ 
+ CNRS - Portail emploi recrutement 
+ 
+ 
+ Centre National de la Recherche Scientifique 
+ 
+ 
+ 
+ 
+ 
+ CNRS 
+ 
+ 
+ Les annuaires de l'organisme 
+ 
+ 
+ Mots-clefs CNRS 
+ 
+ 
+ Travailler au CNRS 
+ 
+ 
+ CNRS en région 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail Emploi 
+ 
+ Accueil 
+ 
+ 
+ Présentation 
+ 
+ 
+ Toutes les offres 
+ 
+ Recherche simple     
+ 
+ Recherche avancée 
+ 
+ 
+ Bassins d'emploi 
+ 
+ Aide 
+ 
+ Aide à l'utilisation du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ 
+ 
+ Nous suivre 
+ 
+ 
+ Flux RSS des offres 
+ 
+ 
+ 
+ 
+ Notre page Facebook 
+ 
+ 
+ 
+ 
+ Notre compte Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail  >  Offres  >  Offre UAR6402-CHRDUR-176 - Administrateur Plateforme de Calcul (H/F) 
+ 
+ 
+ Administrateur Plateforme de Calcul (H/F) 
+ 
+ 
+ 
+ 
+ 
+ 
+        Date Limite Candidature :  jeudi 27 février 2025 23:59:00 heure de Paris 
+ 
+            Assurez-vous que votre  profil candidat  soit correctement renseigné avant de postuler
+         
+ 
+ 
+ Informations générales Intitulé de l'offre :  Administrateur Plateforme de Calcul (H/F) 
+ Référence : UAR6402-CHRDUR-176 
+Nombre de Postes : 1 
+Lieu de travail :  VILLEURBANNE 
+Date de publication :  jeudi 6 février 2025 
+Type de contrat :  IT en contrat CDD 
+Durée du contrat : 12 mois 
+Date d'embauche prévue : 1 avril 2025 Quotité de travail :  Complet 
+Rémunération :  entre 2491€ et 3712€ brut mensuel selon expérience 
+Niveau d'études souhaité :  BAC+3/4 
+Expérience souhaitée :  Indifférent 
+BAP : E - Informatique, Statistiques et Calcul scientifique 
+Emploi type :  Administrateur-trice systèmes et réseaux 
+ 
+ Missions 
+ Le Centre de Calcul de l'IN2P3 recherche un collaborateur pour compléter l'équipe Calcul, en charge de l'intégration, de l'administration et de l'exploitation des plateformes de calcul HTC, HPC et GPGPU. Ces plateformes sont composées de près d'un millier de serveurs Linux, permettant d'exécuter jusqu'à 40 000 programmes de calcul simultanément. Cette équipe est actuellement composée de 5 ingénieurs. 
+ 
+ Activités 
+ Le/la candidat(e) retenu(e) sera principalement chargé(e) de l’exploitation des ressources de calcul. Ses missions principales seront :  • Assurer l’administration, la maintenance, et l’évolution des plateformes de calcul HTC, HPC et GPU du centre de calcul. • Garantir la disponibilité, la performance et la sécurité des services de calcul pour répondre aux besoins des utilisateurs. • Participer à l’intégration de nouvelles technologies et au déploiement de solutions innovantes dans un environnement collaboratif. • Rédiger la documentation des procédures et des travaux réalisés dans le cadre de l’activité • Dispenser des formations 
+ 
+ Compétences 
+ Compétences requises : - Des connaissances de base sur le fonctionnement et l'administration du système Linux en environnement réseau IP. - Développement de scripts pour l'administration et l'opération des services sous le système Linux. Compétences souhaitées : - Connaissance des logiciels de gestion par lots ou clusters (« batch schedulers », ex. htcondor, slurm). - Connaissance des serveurs GPUs - Connaissance des environnements de grille de calcul. - Connaissance des outils de gestion de configuration et de déploiement (ex. puppet, ansible). - Connaissance d'outils de monitoring (ex. nagios). Une expérience préalable dans le type de fonctions proposées est un plus mais n'est pas obligatoire. Le CC-IN2P3 donne à ses nouveaux collaborateurs les moyens et le temps de se former et de monter en compétence. 
+ 
+ Contexte de travail 
+ Le Centre de Calcul de l'Institut National de Physique Nucléaire et de Physique des Particules (CC-IN2P3) est une unité d'appui et de recherche du Centre National de la Recherche Scientifique (CNRS). Classé parmi les infrastructures françaises de recherche, il a pour vocation de fournir des moyens de calcul et de stockage de données aux chercheurs impliqués dans les expériences de physique corpusculaire. 70 collaborations de recherche internationales utilisent ses services 24h/24, 7j/7.  Le Centre de Calcul de l'IN2P3 est en particulier un des acteurs principaux de la grille de calcul mondiale WLCG (World LHC Computing Grid), imaginée et développée pour les expériences de recherche de l'accélérateur LHC (Large Hadron Collider) au CERN. Ce que nous vous proposons : • CDD de 1 an renouvelable • Un environnement de travail stimulant aux contacts des personnels de la recherche • 44 jours de congés / RTT par an • D'excellentes conditions de travail (horaires flexibles) • Télétravail possible selon la règlementation du CNRS • Un restaurant d'entreprise qui permet de déjeuner à un prix intéressant. • Le remboursement partiel des titres de transport (75%) + forfait mobilité durable • Un site accessible en transport en commun + parking privé • Participation financière au frais de mutuelle 
+ 
+ Contraintes et risques 
+ Des déplacements de courte durée en France et à l'étranger sont à prévoir. 
+ 
+ 
+ 
+ 
+ 
+         
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ Logo Republique Française et CNRS 
+ 
+ 
+ 
+ 
+ 
+ Aide 
+ 
+ 
+ Plan du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ Mentions Légales 
+ 
+ 
+ CGU 
+ 
+ 
+ Donnees Personnelles 
+ 
+ 
+ Cookies 
+ 
+ 
+ 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ Logo HRS4R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

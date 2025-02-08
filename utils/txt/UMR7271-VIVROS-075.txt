@@ -1,0 +1,239 @@
+
+ 
+ 
+ 
+	Portail Emploi CNRS - Offre d'emploi - Ingénieur de recherche dans le domaine des sciences du logiciel appliquées aux systèmes cyber-physiques (H/F)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    En poursuivant votre navigation sur ce site, vous acceptez le dépôt de cookies dans votre navigateur. ( En savoir plus ) 
+ 
+ 
+ 
+ 
+ CNRS - Portail emploi recrutement 
+ 
+ 
+ Centre National de la Recherche Scientifique 
+ 
+ 
+ 
+ 
+ 
+ CNRS 
+ 
+ 
+ Les annuaires de l'organisme 
+ 
+ 
+ Mots-clefs CNRS 
+ 
+ 
+ Travailler au CNRS 
+ 
+ 
+ CNRS en région 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail Emploi 
+ 
+ Accueil 
+ 
+ 
+ Présentation 
+ 
+ 
+ Toutes les offres 
+ 
+ Recherche simple     
+ 
+ Recherche avancée 
+ 
+ 
+ Bassins d'emploi 
+ 
+ Aide 
+ 
+ Aide à l'utilisation du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ 
+ 
+ Nous suivre 
+ 
+ 
+ Flux RSS des offres 
+ 
+ 
+ 
+ 
+ Notre page Facebook 
+ 
+ 
+ 
+ 
+ Notre compte Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail  >  Offres  >  Offre UMR7271-VIVROS-075 - Ingénieur de recherche dans le domaine des sciences du logiciel appliquées aux systèmes cyber-physiques (H/F) 
+ 
+ 
+ Ingénieur de recherche dans le domaine des sciences du logiciel appliquées aux systèmes cyber-physiques (H/F) 
+ 
+ 
+ 
+ Cette offre est disponible dans les langues suivantes :  -   Français - -   Anglais 
+ 
+ 
+        Date Limite Candidature :  jeudi 13 février 2025 23:59:00 heure de Paris 
+ 
+            Assurez-vous que votre  profil candidat  soit correctement renseigné avant de postuler
+         
+ 
+ 
+ Informations générales Intitulé de l'offre :  Ingénieur de recherche dans le domaine des sciences du logiciel appliquées aux systèmes cyber-physiques (H/F) 
+ Référence : UMR7271-VIVROS-075 
+Nombre de Postes : 1 
+Lieu de travail :  VALBONNE 
+Date de publication :  jeudi 23 janvier 2025 
+Type de contrat :  IT en contrat CDD 
+Durée du contrat : 8 mois 
+Date d'embauche prévue : 1 avril 2025 Quotité de travail :  Complet 
+Rémunération :  Entre 2875.89 € et 3035.51 bruts mensuel selon expérience 
+Niveau d'études souhaité :  BAC+5 
+Expérience souhaitée :  Indifférent 
+BAP : E - Informatique, Statistiques et Calcul scientifique 
+Emploi type :  Expert-e en calcul scientifique 
+ 
+ Missions 
+ L’ingénieur aura pour mission de participer aux activités scientifiques et techniques de l’équipe impliquée dans le projet pour la conception d’un outil dans la solution DYNABIC, visant à fournir aux opérateurs d'infrastructures critiques une compréhension complète et en temps réel de l'état de leur système, des menaces potentielles et des actions à entreprendre pour maintenir la continuité des activités. 
+ 
+ Activités 
+ L’ingénieur recruté aura trois activités principales pour le laboratoire I3S dans le projet :  1.	Participer aux recherches sur l’évaluation de la résilience d’un système cyber-physique à partir des dynamiques des mesures d’effectivité [1], 2.	Développer et intégrer l’outil qui découle de ces recherches dans la solution globale du projet DYNABIC, 3.	Mise en œuvre de l’outil sur les use case du projet pour validation avec les partenaires. Pour cela il sera appelé à participer aux différentes réunions hebdomadaires entre partenaires du projet selon les Workpackages concernés. Il prendra part, à la production des livrables concernant le laboratoire I3S : documents, support multimedia, production logicielle, démos etc. Il prendra part à la dissémination des activités de l’équipe : rédaction des soumissions pour publications dans des conférences et revues scientifiques du domaine, hackathons, communication vers le milieu académique et industriel, tutoriaux et démonstrations etc .    
+ 
+ Compétences 
+ Les travaux proposés offrant ainsi un large spectre d’activités et ils peuvent correspondre à des candidats avec des profils et background différents.  Les compétences souhaitées sont ainsi diverses. Recherche : •	Compétences appréciées dans le domaine des systèmes cyber-physiques •	Compétences appréciées dans le domaine de la sécurité et des cyber-attaques  •	Mener une étude bibliographique  •	Rédiger des documents scientifiques  Développement & Intégration : •	Rédiger de la documentation technique •	Concevoir et Développer un Frontend (ex. React et micro-frontend)   •	Utiliser et intégrer une plateforme de gestion de flux de données (ex. Kafka)  •	Mettre en œuvre un déploiement via des container et une orchestration de containers (ex. Docker, Kubernetes) Autres : •	Maîtriser l’anglais à l’oral et l’écrit  •	Gérer un projet •	Conduire des réunions et rédiger des comptes-rendus  
+ 
+ Contexte de travail 
+ Dans le cadre du projet européen DYNABIC (https://dynabic.eu/), le laboratoire i3S (CNRS / Université Côte d'Azur) recrute un ingénieur de recherche pour collaborer avec quatre enseignants chercheurs déjà impliqués dans le projet.  L'objectif de DYNABIC est d'accroître la résilience et les capacités de continuité des services critiques européens face aux menaces cyber-physiques avancées. Dans le cadre de ce projet, le laboratoire i3S a la charge d’évaluer la résilience en fonction du contexte et de préoccupations multiples dans des systèmes cyber-physiques soumis à des cyber-attaques. Ce poste est à pourvoir au sein de l'équipe Rainbow - Pôle SPARKS  du Laboratoire i3S UMR 7271 à Sophia Antipolis. Le Laboratoire d'informatique, Signaux et Systèmes de Sophia Antipolis (i3S), créé en 1989, mène des recherches en sciences informatiques. Avec près de 300 personnes, enseignants-chercheurs d'Université Côte d'Azur, chercheurs CNRS et Inria, personnels administratifs et techniques, doctorants et stagiaires, il est l'un des plus grands laboratoires publics de la Côte d'Azur et a été l'un des premiers à être établi dans le parc technologique de Sophia Antipolis. 
+ 
+ Contraintes et risques 
+ Quelques déplacements à l’étranger pour les réunions de projets avec tout ou partie des partenaires. 
+ 
+ 
+ 
+ 
+ 
+         
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ Logo Republique Française et CNRS 
+ 
+ 
+ 
+ 
+ 
+ Aide 
+ 
+ 
+ Plan du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ Mentions Légales 
+ 
+ 
+ CGU 
+ 
+ 
+ Donnees Personnelles 
+ 
+ 
+ Cookies 
+ 
+ 
+ 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ Logo HRS4R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,236 @@
+
+ 
+ 
+ 
+	Portail Emploi CNRS - Offre d'emploi - Développeur web, portails de données de génomique marine ATLASea - BYTE SEA - ROSCOFF (H/F)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    En poursuivant votre navigation sur ce site, vous acceptez le dépôt de cookies dans votre navigateur. ( En savoir plus ) 
+ 
+ 
+ 
+ 
+ CNRS - Portail emploi recrutement 
+ 
+ 
+ Centre National de la Recherche Scientifique 
+ 
+ 
+ 
+ 
+ 
+ CNRS 
+ 
+ 
+ Les annuaires de l'organisme 
+ 
+ 
+ Mots-clefs CNRS 
+ 
+ 
+ Travailler au CNRS 
+ 
+ 
+ CNRS en région 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail Emploi 
+ 
+ Accueil 
+ 
+ 
+ Présentation 
+ 
+ 
+ Toutes les offres 
+ 
+ Recherche simple     
+ 
+ Recherche avancée 
+ 
+ 
+ Bassins d'emploi 
+ 
+ Aide 
+ 
+ Aide à l'utilisation du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ 
+ 
+ Nous suivre 
+ 
+ 
+ Flux RSS des offres 
+ 
+ 
+ 
+ 
+ Notre page Facebook 
+ 
+ 
+ 
+ 
+ Notre compte Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Portail  >  Offres  >  Offre UAR3601-ANILEF-033 - Développeur web, portails de données de génomique marine ATLASea - BYTE SEA - ROSCOFF (H/F) 
+ 
+ 
+ Développeur web, portails de données de génomique marine ATLASea - BYTE SEA - ROSCOFF (H/F) 
+ 
+ 
+ 
+ 
+ 
+ 
+        Date Limite Candidature :  lundi 17 février 2025 23:59:00 heure de Paris 
+ 
+            Assurez-vous que votre  profil candidat  soit correctement renseigné avant de postuler
+         
+ 
+ 
+ Informations générales Intitulé de l'offre :  Développeur web, portails de données de génomique marine ATLASea - BYTE SEA - ROSCOFF (H/F) 
+ Référence : UAR3601-ANILEF-033 
+Nombre de Postes : 1 
+Lieu de travail :  ROSCOFF 
+Date de publication :  lundi 27 janvier 2025 
+Type de contrat :  IT en contrat CDD 
+Durée du contrat : 36 mois 
+Date d'embauche prévue : 1 mars 2025 Quotité de travail :  Complet 
+Rémunération :  entre 2932,84 et 3557,58 euros bruts/mois selon expérience 
+Niveau d'études souhaité :  BAC+5 
+Expérience souhaitée :  Indifférent 
+BAP : E - Informatique, Statistiques et Calcul scientifique 
+Emploi type :  Chef-fe de projet ou expert-e en Ingéniérie logicielle 
+ 
+ Missions 
+ L'ingénieur.e sera responsable du développement de nouvelles fonctionnalités et de l’intégration des données dans les portails web déployés dans le cadre du programme ATLASea. 
+ 
+ Activités 
+ - Contribuer au développement et au maintien des services et interfaces Web pour les données du programme ATLASea. - Développer de nouvelles fonctionnalités pour améliorer la visualisation des données, faciliter leur analyse au sein des portails, accroître l’interopérabilité entre les différents portails et outils. Intégrer de nouvelles données (génomique, annotations) dans les portails web ATLASea. - Interagir avec les groupes de recherche participants au programme ATLASea et les ingénieurs de la plateforme ABiMS pour définir et affiner les besoins futurs. -  Opérer la diffusion et valorisation des résultats et réalisations technologiques sous forme de rapports, publications, présentations orales. 
+ 
+ Compétences 
+ Diplôme de master ou équivalent dans une discipline informatique ou bioinformatique Bonne connaissance des environnements de développement intégré (type PyCharm ou Visual Studio) et systèmes Linux Bonne connaissance en programmation web (Python, JavaScript, CSS, API Rest) et frameworks associés (Django/VueJS). La connaissance du gestionnaire de version Git et des technologies Devops de type Docker et GitLab CI/CD serait un atout. Familiarité avec le traitement de  données de séquences génomiques et les méthodes d'analyse  Intérêt pour la bioinformatique et le génomique Anglais parlé et écrit Rigueur scientifique, aptitudes organisationnelles Aptitudes relationnelles et goût pour le travail en équipe 
+ 
+ Contexte de travail 
+ Localisation du poste: Station Biologique de Roscoff Horaires adaptés à l'organisation du travail Temps de travail: 38h30 par semaine et 45 jours de congés annuels Possibilité de faire du télétravail  Déplacements à prévoir entre les différents sites de la Station et sur les sites des équipes partenaires (Rennes, Paris, Plouzané) L’Institut Français de Bioinformatique (IFB ; france-bioinformatique.fr) est une infrastructure nationale qui regroupe 35 plateformes et équipes de recherche en bioinformatique, et une unité coordinatrice, IFB-Core (UAR 3601). L’IFB déploie sur l’ensemble du territoire national des services en bioinformatique : infrastructure de calcul, logiciels et bases de données, analyse des données biologiques, gestion des données, formations. L’IFB participe au PER ATLASea ATLASea (www.atlasea.fr) est un programme focalisé sur la génomique de la biodiversité marine le long des côtes françaises. Piloté par le CNRS et le CEA, il inclut de nombreuses institutions partenaires en France et s'intègre dans un large contexte international.  Le programme s'étendant sur 8 ans (2023-2031), échantillonne la biodiversité marine sous la coordination du MNHN à travers des expéditions et avec l'aide des stations marines. Le séquençage et l'assemblage des génomes sont réalisés au Genoscope sous la coordination de France Génomique. Les données sont gérées, analysées et mises en accès dans des portails web sous la coordination de l'Institut Français de BioInformatique (dans le cadre du projet BYTE-Sea).  Le/la candidat.e travaillera en étroite collaboration avec le coordinateur du projet  BYTE-SEA, la responsable des développements de portail et le correspondant IFB au sein de BYTESea. Il/elle interagira avec les ingénieurs de la plateforme et avec les partenaires impliqués dans le programme (IFREMER-SeBiMer (Plouzané), GenOuest (Rennes), IFBcore (Paris) , ENS Ulm (Paris), MNHN (Paris) et Genoscope (Evry)) 
+ 
+ 
+ 
+ 
+ 
+         
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ Logo Republique Française et CNRS 
+ 
+ 
+ 
+ 
+ 
+ Aide 
+ 
+ 
+ Plan du site 
+ 
+ 
+ Nous contacter 
+ 
+ 
+ Mentions Légales 
+ 
+ 
+ CGU 
+ 
+ 
+ Donnees Personnelles 
+ 
+ 
+ Cookies 
+ 
+ 
+ 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ English 
+ 
+ 
+ 
+ 
+ 
+ Logo HRS4R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
