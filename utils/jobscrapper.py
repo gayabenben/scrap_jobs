@@ -111,9 +111,23 @@ class JobScraper:
         return 0    
         
 if __name__ == "__main__":
-    scraper = JobScraper(filename="cnrs_jobs.json", max_offers=1002)
-    url = "https://emploi.cnrs.fr/Recherche.aspx"
-    print("Extracting job offers from CNRS...", url)
+    import argparse
+    parser = argparse.ArgumentParser(description="Extract job offers from CNRS/cea website.")
+    parser.add_argument("--site", type=str, default="cnrs", help="Website to scrape (cnrs or cea)")
+    args = parser.parse_args()
+    
+    
+    if args.site == "cnrs":
+        url = "https://emploi.cnrs.fr/Recherche.aspx"
+    elif args.site == "cea":
+        url = "https://www.emploi.cea.fr/offre-de-emploi/liste-offres.aspx"
+        #"https://www.emploi.cea.fr/accueil.aspx?LCID=1036"
+    else:
+        raise ValueError("Invalid site specified. Use 'cnrs' or 'cea'")
+    
+    scraper = JobScraper(filename=f"{args.site}_jobs.json", max_offers=1002)
+    #url = "https://emploi.cnrs.fr/Recherche.aspx"
+    print("Extracting job offers from ...", url)
     scraper.extract_job_offers(url)
     print(f"Total job offers: {scraper.count_offers()}")
     # Example lookup with additional parameters
